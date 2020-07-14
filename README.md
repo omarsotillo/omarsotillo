@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://i.gifer.com/BmF.gif">
 
-<!--
-**omarsotillo/omarsotillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Omar 🎎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software gardener 🎋• Ruby, Elixir and Vue.js ⚡
+
+Currently in Berlin 🇩🇪 :man_technologist:
+
+## About me 
+
+🥁  Percussion | 📸  Photography | 🏞️  Nature
+
+-  I'm from Córdoba - Spain 🕌 🇪🇸
+-  I am a bookworm 📚
+-  I give awkward hugs 🤗
+
+## Social media :mailbox_with_no_mail:
+
+![Twitter URL](https://img.shields.io/twitter/url?color=coral&label=follow%20me&logo=twitter&logoColor=coral&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fokubico)
+![Instagram URL](https://img.shields.io/twitter/url?color=coral&label=instagram&logo=instagram&logoColor=coral&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fomar.sotillo%2F)
+![Unsplash URL](https://img.shields.io/twitter/url?color=coral&label=unsplash&logo=unsplash&logoColor=coral&style=for-the-badge&url=https%3A%2F%2Funsplash.com%2F%40omarsotillo)
