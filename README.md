@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.gifer.com/BmF.gif">
+<img align="right" src="https://aptly.de/wp-content/uploads/2016/03/working-with-my-jam-on.gif">
 
 
 # Hi, I'm Omar 🎎
