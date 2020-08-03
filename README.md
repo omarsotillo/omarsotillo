@@ -4,7 +4,6 @@
 # Hi, I'm Omar 🎋
 
 - Ruby, Elixir and Vue.js ⚡ 🎎
-- Berlin 🇩🇪 :man_technologist:
 
 ## About me 
 
