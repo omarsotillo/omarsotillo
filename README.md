@@ -7,7 +7,7 @@
 
 ## About me 
 
-🥁  Percussion | 📸  Photography | 🏞️  Nature
+Percussion | Photography | Nature
 
 -  I'm from Córdoba - Spain 🕌 🇪🇸
 -  I am a bookworm 📚
