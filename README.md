@@ -1,8 +1,6 @@
-### > i'm-omar 🎋
-
-- ruby, elixir and vue.js ⚡ 🎎
+## > i'm-omar 🎋
 
 ### > photography 🎴
 
 - [my-unsplash](https://unsplash.com/@omarsotillo)
-- [my-instangram](https://www.instagram.com/omar.sotillo/)
+- [my-instagram](https://www.instagram.com/omar.sotillo/)
